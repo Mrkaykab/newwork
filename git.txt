@@ -1,0 +1,11 @@
+git init - to start your project
+git clone [url] - to copy a repo
+git add [file] - to stage changes
+git commit -m "message" - to save
+git push - to update remote
+git pull - to sync local with remote 
+git status - to check changes
+git log - version history
+git log --all - to show all commit/version
+git log --all --graph - to show graph
+ 
